@@ -238,16 +238,6 @@ print(floor(3.7)) # floor method rpunds down
 # # #round one number
 # print(round(num1,num2))
 
-
-
-#1.
-num1 = input("input a number: ")
-num2 = input("input a 2nd number: ")
-
-#2.
-
-
-
 ##########################################################################################
 # # mad libs game
 # print("Roses are {color}")
