@@ -220,8 +220,8 @@ print(floor(3.7)) # floor method rpunds down
 # # **Getting Input from users**
 # #how do we get input from users?
 # input("what is your name?")
-name = input("What is your name?")
-print("hello " + name)
+#name = input("What is your name?")
+#print("hello " + name)
 # # basic math calculator
 # #ask the user for 2 numbers
 # num1 = int(input("enter a number: "))
@@ -240,7 +240,11 @@ print("hello " + name)
 
 
 
+#1.
+num1 = input("input a number: ")
+num2 = input("input a 2nd number: ")
 
+#2.
 
 
 
